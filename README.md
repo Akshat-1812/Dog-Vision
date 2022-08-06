@@ -8,4 +8,5 @@ It's A Deep Learning Project used to predict the dog breed from images trained o
 - Keras
 
 This project is deployed on https://huggingface.co
-Here the link of project 🔗 https://huggingface.co/spaces/Akshat-1812/Dog-Vision
+<br>
+Here the deployed project 🔗 https://huggingface.co/spaces/Akshat-1812/Dog-Vision
